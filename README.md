@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Satyam Chaturvedi
 
-**AI/ML Enthusiast || GenAI developer || Backend Developer || System Design Enthusiast 
+**AI/ML Enthusiast || GenAI developer || Backend Developer || System Design Enthusiast**
 
 🔭 Exploring AI Agents, Generative AI, and Machine Learning  
 🌱 Currently learning LLM Fine-Tuning, RAG, Knowledge Distillation, and Quantization  
